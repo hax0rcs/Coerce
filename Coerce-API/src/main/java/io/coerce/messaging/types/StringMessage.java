@@ -1,7 +1,6 @@
 package io.coerce.messaging.types;
 
 import io.coerce.messaging.Message;
-import org.omg.IOP.ServiceContextListHelper;
 
 import java.util.UUID;
 
